@@ -11,7 +11,7 @@ Matthew Rowe and Dejan Jandric
 
 - **Dataset Implementation:** From NFCHA number of visitors and weather website data, created a dataset for each year from 2018-2023 excluding 2020. 
 - **Time Series:** ACF and PACF plots for checking seasonality 
-- **Regression Analysis:** Regression Linear Models using Temperature and Humidity variables
+- **Regression Analysis:** Regression Linear Models using Temperature and Humidity predictor variables
 - **Diagnostic Plots:** Cooks D (Outliers), qqplots, and log and square root transform of models
 
 
